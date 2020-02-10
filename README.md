@@ -11,16 +11,28 @@ The programs use:
 * Python 3
 * pip3 for installing packages
 * nltk
+* re
+* collections
+
+---
+
+## Source text
+The programs analyse text of The Iliad, taken from [Project Gutenberg](http://www.gutenberg.org/ebooks/6130).
 
 ---
 
 ## __parse.py__ 
-This program takes a text and identifies the grammatical type of each word. My example uses The Iliad, taken from [Project Gutenberg](http://www.gutenberg.org/ebooks/6130)
+This program takes a text and identifies the grammatical type of each word. 
 
 ---
 
 ## __word_count.py__ 
-This program takes a text and for each word counts the number of times that word occurs. Again, the text used is The Iliad (see __parse.py__).
+This program takes a text and for each word counts the number of times that word occurs. 
+
+---
+
+## __top_ten_words.py__ 
+This program takes a text and displays the top ten two-word, three-word and five-word phrases by frequency.
 
 ---
 
