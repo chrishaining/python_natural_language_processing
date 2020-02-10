@@ -31,7 +31,7 @@ This program takes a text and for each word counts the number of times that word
 
 ---
 
-## __top_ten_words.py__ 
+## __top_ten_ngrams.py__ 
 This program takes a text and displays the top ten two-word, three-word and five-word phrases by frequency.
 
 ---
