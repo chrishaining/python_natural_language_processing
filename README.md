@@ -16,8 +16,10 @@ The programs use:
 
 ---
 
-## Source text
-The programs analyse text of The Iliad, taken from [Project Gutenberg](http://www.gutenberg.org/ebooks/6130).
+## Source texts
+The programs analyse texts taken from [Project Gutenbeg](http://www.gutenberg.org/wiki/Main_Page):
+* [The Iliad](http://www.gutenberg.org/ebooks/6130)
+* [The Odyssey](http://www.gutenberg.org/files/3160/3160-0.txt)
 
 ---
 
@@ -33,6 +35,11 @@ This program takes a text and for each word counts the number of times that word
 
 ## __top_ten_ngrams.py__ 
 This program takes a text and displays the top ten two-word, three-word and five-word phrases by frequency.
+
+---
+
+## __text_generator.py__ 
+This program takes two training texts to learn from then. These should be from the same author (in this case, Homer, so it's debatable if they are the same author!). The program analyses the text and generates a short text in the style of the author of the training texts.
 
 ---
 
