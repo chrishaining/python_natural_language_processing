@@ -20,4 +20,4 @@ This program takes a text and identifies the grammatical type of each word. My e
 ---
 
 ## Problems and Workarounds
-There were problems trying to use nltk. I had to open the Python shell (in terminal, type `python` then hit `enter`), then had to download various models. See (stack overflow advice, answer 12)[https://stackoverflow.com/questions/38916452/nltk-download-ssl-certificate-verify-failed/59530679#59530679]
+There were problems trying to use nltk. I had to open the Python shell (in terminal, type `python` then hit `enter`), then had to download various models. See (stack overflow advice, answer 11)[https://stackoverflow.com/questions/38916452/nltk-download-ssl-certificate-verify-failed/59530679#59530679]
