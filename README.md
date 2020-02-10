@@ -6,7 +6,7 @@ My initial learning has come from the Codecademy course on [Natural Language Pro
 
 ---
 
-## Packages and set ups
+## Setup and Packages 
 The programs use:
 * Python 3
 * pip3 for installing packages

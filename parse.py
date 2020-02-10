@@ -53,10 +53,8 @@ most_common_np_chunks = np_chunk_counter(np_chunked_text)
 
 def nicer_list_of_chunks(list_of_chunks):
     for chunk in list_of_chunks:
-        # print("{}".format(chunk))
         print(chunk)
 
-# print("The most common Noun Phrases are: {}".format(most_common_np_chunks))
 
 # print("The most common Noun Phrases are:\n {}".format(nicer_list_of_chunks(most_common_np_chunks)))
 print("Here are the text's most common noun phrases. The order is: word; grammatical structures; frequency. ")
@@ -65,7 +63,6 @@ nicer_list_of_chunks(most_common_np_chunks)
 print("\n\n")
 # store and print the most common VP-chunks here
 most_common_vp_chunks = vp_chunk_counter(vp_chunked_text)
-# print(most_common_vp_chunks)
 print("Here are the text's most common verb phrases. The order is: word; grammatical structures; frequency. ")
 nicer_list_of_chunks(most_common_vp_chunks)
 
