@@ -20,7 +20,7 @@ The programs use:
 
 <p>
   <img src="TheIliadwordCloud.png" title="The Iliad Word Cloud" alt="The Iliad Word Cloud" width="400" height="300"/>
-  <img src="TheOdysseywordCloud.png" alt="The Odyssey Word Cloud" width="400" height="300"/> 
+  <img src="TheOdysseywordCloud.png" title="The Odyssey Word Cloud" alt="The Odyssey Word Cloud" width="400" height="300"/> 
 </p>
 
 ---
