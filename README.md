@@ -16,6 +16,13 @@ The programs use:
 
 ---
 
+<p>
+  <img src="TheIliadwordCloud.png" alt="TheIliadWordCloud" width="300" height="200"/>
+  <img src="TheOdysseywordCloud.png" alt="TheOdysseyWordCloud" width="300" height="200"/> 
+</p>
+
+---
+
 ## Source texts
 The programs analyse texts taken from [Project Gutenbeg](http://www.gutenberg.org/wiki/Main_Page):
 * [The Iliad](http://www.gutenberg.org/ebooks/6130)
@@ -40,6 +47,11 @@ This program takes a text and displays the top ten two-word, three-word and five
 
 ## __text_generator.py__ 
 This program takes two training texts to learn from then. These should be from the same author (in this case, Homer, so it's debatable if they are the same author!). The program analyses the text and generates a short text in the style of the author of the training texts.
+
+---
+
+## __word_cloud.py__ 
+This program takes a text and displays the most frequeny words in a word cloud. I've followed the lesson from [Tutorialspoint](https://www.tutorialspoint.com/create-word-cloud-using-python), with a few adaptations, such as generating unique filenames based on the title of the text.
 
 ---
 
