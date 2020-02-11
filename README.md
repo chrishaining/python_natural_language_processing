@@ -18,8 +18,8 @@ The programs use:
 
 ## Sample Word Clouds 
 
-<p>The Illiad
-  <img src="TheIliadwordCloud.png" alt="The Iliad Word Cloud" width="400" height="300"/>The Odyssey
+<p>
+  <img src="TheIliadwordCloud.png" title="The Iliad Word Cloud" alt="The Iliad Word Cloud" width="400" height="300"/>
   <img src="TheOdysseywordCloud.png" alt="The Odyssey Word Cloud" width="400" height="300"/> 
 </p>
 
