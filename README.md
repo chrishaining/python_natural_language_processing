@@ -13,6 +13,9 @@ The programs use:
 * nltk
 * re
 * collections
+* wordcloud
+* matplotlib
+* numpy
 
 ---
 
