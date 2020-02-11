@@ -15,9 +15,9 @@ The programs use:
 * collections
 
 ---
-
-<p>
-  <img src="TheIliadwordCloud.png" alt="The Iliad Word Cloud" width="400" height="300"/>
+## Sample Word Clouds 
+<p>The Illiad
+  <img src="TheIliadwordCloud.png" alt="The Iliad Word Cloud" width="400" height="300"/>The Odyssey
   <img src="TheOdysseywordCloud.png" alt="The Odyssey Word Cloud" width="400" height="300"/> 
 </p>
 
