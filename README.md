@@ -17,8 +17,8 @@ The programs use:
 ---
 
 <p>
-  <img src="TheIliadwordCloud.png" style:title="The Iliad Word Cloud" alt="The Iliad Word Cloud" width="300" height="200" style:border="solid 1px"/>
-  <img src="TheOdysseywordCloud.png" style:title="The Odyssey Word Cloud" alt="The Odyssey Word Cloud" width="300" height="200" style:border="solid 1px"/> 
+  <img src="TheIliadwordCloud.png" alt="The Iliad Word Cloud" width="300" height="200"/>
+  <img src="TheOdysseywordCloud.png" alt="The Odyssey Word Cloud" width="300" height="200"/> 
 </p>
 
 ---
