@@ -19,19 +19,20 @@ The programs use:
 
 ---
 
-## Sample Word Clouds 
+## Source texts
+The programs analyse texts taken from [Project Gutenbeg](http://www.gutenberg.org/wiki/Main_Page):
+* [The Iliad](http://www.gutenberg.org/ebooks/6130)
+* [The Odyssey](http://www.gutenberg.org/files/3160/3160-0.txt)
+
+---
+
+## __word_cloud.py__ 
+This program takes a text and displays the most frequeny words in a word cloud. I've followed the lesson from [Tutorialspoint](https://www.tutorialspoint.com/create-word-cloud-using-python), with a few adaptations, such as generating unique filenames based on the title of the text. Here are a couple of samples:
 
 <p>
   <img src="TheIliadwordCloud.png" title="The Iliad Word Cloud" alt="The Iliad Word Cloud" width="400" height="300"/>
   <img src="TheOdysseywordCloud.png" title="The Odyssey Word Cloud" alt="The Odyssey Word Cloud" width="400" height="300"/> 
 </p>
-
----
-
-## Source texts
-The programs analyse texts taken from [Project Gutenbeg](http://www.gutenberg.org/wiki/Main_Page):
-* [The Iliad](http://www.gutenberg.org/ebooks/6130)
-* [The Odyssey](http://www.gutenberg.org/files/3160/3160-0.txt)
 
 ---
 
@@ -52,11 +53,6 @@ This program takes a text and displays the top ten two-word, three-word and five
 
 ## __text_generator.py__ 
 This program takes two training texts to learn from then. These should be from the same author (in this case, Homer, so it's debatable if they are the same author!). The program analyses the text and generates a short text in the style of the author of the training texts.
-
----
-
-## __word_cloud.py__ 
-This program takes a text and displays the most frequeny words in a word cloud. I've followed the lesson from [Tutorialspoint](https://www.tutorialspoint.com/create-word-cloud-using-python), with a few adaptations, such as generating unique filenames based on the title of the text.
 
 ---
 
