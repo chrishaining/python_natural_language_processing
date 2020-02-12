@@ -51,6 +51,15 @@ This program takes a text and displays the top ten two-word, three-word and five
 
 ---
 
+## __ngrams_charts.py__ 
+This program uses the data from __top_ten_ngrams.py__ and presents it in a bar-chart format. 
+
+<p>
+  <img src="bigram_bar.png" title="Bar Chart of Top Ten Bigrams in The Iliad" alt="Bar Chart of Top Ten Bigrams in The Iliad" width="400" height="300"/>
+</p>
+
+---
+
 ## __text_generator.py__ 
 This program takes two training texts to learn from then. These should be from the same author (in this case, Homer, so it's debatable if they are the same author!). The program analyses the text and generates a short text in the style of the author of the training texts.
 
