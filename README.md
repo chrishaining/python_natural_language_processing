@@ -56,6 +56,7 @@ This program uses the data from __top_ten_ngrams.py__ and presents it in a bar-c
 
 <p>
   <img src="bigram_bar.png" title="Bar Chart of Top Ten Bigrams in The Iliad" alt="Bar Chart of Top Ten Bigrams in The Iliad" width="400" height="300"/>
+  <img src="pentagram_bar_cart.png" title="Bar Chart of Top Five Pentagrams in The Iliad" alt="Bar Chart of Top Five Pentagrams in The Iliad" width="400" height="300"/>
 </p>
 
 ---
